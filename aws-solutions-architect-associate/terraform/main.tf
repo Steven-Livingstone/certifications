@@ -1,5 +1,5 @@
 module "test" {
-  source = "./modules/19-serverless-lambda"
+  source = "./modules/21-rds"
 }
 
 output "test_output" {
